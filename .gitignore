@@ -1,0 +1,15 @@
+*
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!*.c
+!*/
+!*.h
+!Makefile
+
+client/client
+
+server/server
+
+\.vscode/launch\.json
